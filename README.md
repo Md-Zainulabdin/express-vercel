@@ -1,4 +1,4 @@
-# Backend Starter Kit for Vercel Deployment - Javvascript
+# Backend Starter Kit for Vercel Deployment - Javascript
 
 Starter code for backend applications built with Express and Node.js, ready for deployment on Vercel.
 
