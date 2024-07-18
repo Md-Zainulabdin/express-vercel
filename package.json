@@ -1,0 +1,26 @@
+{
+  "name": "express-vercel",
+  "version": "1.0.0",
+  "description": "Starter code for backend applications built with Express and Node.js, ready for deployment on Vercel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "nodemon api/index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
