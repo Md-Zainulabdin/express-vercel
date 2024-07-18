@@ -21,60 +21,52 @@ To get started with this project, follow these steps:
 
 1. Clone the repository :
 
-   ```sh
-   git clone https://github.com/Md-Zainulabdin/express-vercel
-   cd express-vercel
-   ```
+```sh
+git clone https://github.com/Md-Zainulabdin/express-vercel
+cd express-vercel
+```
 
 2. Switch Branches :
 
    - JavaScript :
 
-   ```sh
-   git checkout javascript
-   ```
+```sh
+git checkout javascript
+```
 
    - TypeScript :
 
-     ```sh
-     git checkout typescript
-     ```
+```sh
+git checkout typescript
+```
 
-   ```
-
-   ```
 
 3. Install Dependencies :
 
-   ```sh
-   npm install
-
-   ```
+```sh
+npm install
+```
 
 4. Configure Environment Variables :
 
 Create a .env file:
 
-    ```sh
-
+```sh
 PORT = 8000
-CORS_ORIGIN = \*
-
-````
+CORS_ORIGIN = *
+```
 
 5. Run the Application :
 
 ```sh
-
 npm start
-````
+```
 
 ## Deployment
 
 1. Install Vercel CLI :
 
 ```sh
-
 npm install -g vercel
 ```
 
